@@ -1,0 +1,160 @@
+{
+  "book_id": "asian-postcolonial-documentary-memory-identity",
+  "title": "The Archive of Warm Air",
+  "tagline": "A documentarian sifts through the ashes of colonial records and family silences to reconstruct an identity written in loss.",
+  "target_words": 70000,
+  "actual_words": 72590,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Bureaucracy of Erasure",
+    "Memory as an Argument, Not a Record",
+    "The Inherited Weight of Departure",
+    "Documenting Others to Avoid the Self"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Pressure of Memory",
+      "words": 3025
+    },
+    {
+      "ch": 2,
+      "title": "The List: Disposal of Assets",
+      "words": 2900
+    },
+    {
+      "ch": 3,
+      "title": "The Ghost in the Archive",
+      "words": 3100
+    },
+    {
+      "ch": 4,
+      "title": "The First Interview",
+      "words": 2950
+    },
+    {
+      "ch": 5,
+      "title": "Ah Ma's Silence",
+      "words": 3200
+    },
+    {
+      "ch": 6,
+      "title": "Birmingham Voices",
+      "words": 2850
+    },
+    {
+      "ch": 7,
+      "title": "The Perm of 1975",
+      "words": 3100
+    },
+    {
+      "ch": 8,
+      "title": "Footage from the Delta",
+      "words": 3000
+    },
+    {
+      "ch": 9,
+      "title": "Cracks on a Ceiling",
+      "words": 2950
+    },
+    {
+      "ch": 10,
+      "title": "The Milo Tin",
+      "words": 2800
+    },
+    {
+      "ch": 11,
+      "title": "Returned or Incinerated",
+      "words": 3300
+    },
+    {
+      "ch": 12,
+      "title": "The Fake European Garden",
+      "words": 2900
+    },
+    {
+      "ch": 13,
+      "title": "A Cold, Hard Marble",
+      "words": 3100
+    },
+    {
+      "ch": 14,
+      "title": "The Solid Thing to Push From",
+      "words": 3050
+    },
+    {
+      "ch": 15,
+      "title": "Driftwood and Flotsam",
+      "words": 2950
+    },
+    {
+      "ch": 16,
+      "title": "The Unmappable World",
+      "words": 3200
+    },
+    {
+      "ch": 17,
+      "title": "The Curator of Absence",
+      "words": 3100
+    },
+    {
+      "ch": 18,
+      "title": "The Locked Room",
+      "words": 2850
+    },
+    {
+      "ch": 19,
+      "title": "Tracing the Pattern",
+      "words": 3000
+    },
+    {
+      "ch": 20,
+      "title": "The Ceremonial Banner",
+      "words": 2900
+    },
+    {
+      "ch": 21,
+      "title": "The Verdict of Order",
+      "words": 3150
+    },
+    {
+      "ch": 22,
+      "title": "Port of Embarkation",
+      "words": 3050
+    },
+    {
+      "ch": 23,
+      "title": "The Intimate Grain",
+      "words": 3300
+    },
+    {
+      "ch": 24,
+      "title": "The Warm, Damp Cloth",
+      "words": 3125
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a character discovers a mundane object (a comb, a specific spice jar, a faded postcard) that triggers a visceral, non-visual memory of a place they've left.",
+      "Compose a bureaucratic memo or list that details the 'disposal' of a community's cultural artifacts, focusing on the chillingly neutral language of erasure.",
+      "Create a dialogue where an elder offers a story that is framed not as a tale, but as a 'correction' to a younger person's understanding of the past.",
+      "Describe a character meticulously documenting someone else's trauma, while internally wrestling with their own inability to confront a personal silence."
+    ],
+    "technical": [
+      "Build a 'Memory Atlas' interface that maps fragments of the novel (sensory details, objects, phrases) not chronologically, but by emotional weight and thematic connection, allowing a non-linear exploration of the protagonist's psyche.",
+      "Create an 'Archive Simulator' where users sift through procedurally generated, partially redacted colonial documents, facing the frustration and occasional revelation of historical research where most trails lead to 'incinerated.'"
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Maxine Hong Kingston",
+      "W.G. Sebald",
+      "Trinh T. Minh-ha",
+      "Kazuo Ishiguro"
+    ]
+  },
+  "cover_prompt": "A solitary figure, a documentarian, carefully sifts through a fragmented archive of charred ledgers, faded photographs, and translucent onion-skin documents that float like ghosts in a sunlit room, the papers inscribed not with ink but with faint thermal imprints of forgotten names and censored passages, revealing the bureaucratic machinery of erasure. The scene is set within a colonial-era records office now abandoned, with tall, dusty windows casting long beams of light through suspended motes of ash and memory, shelves half-empty where files were removed, and a large, outdated map on the wall with entire regions meticulously scissored out, creating a geography of absence. In the atmospheric style of Ruan Jia and James Jean, blending hyper-detailed realism with ethereal, symbolic melancholy and a documentary rawness. Book cover framing, a centered and intimate composition viewed from a low angle as if looking over the subject's shoulder, creating a sense of immersion and solemn discovery. Dramatic chiaroscuro lighting where the warm, golden-hour sunlight from the window struggles against deep, cool shadows, with a color palette of sepia, ash grey, archival cream, and the faintest blush of warmth like a fading ember. masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
