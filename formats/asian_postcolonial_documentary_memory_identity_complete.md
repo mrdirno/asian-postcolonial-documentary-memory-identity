@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## **Chapter 1**
 
 The first memory is not an image. It is a pressure. A specific, atmospheric weight, like a warm, damp cloth laid over the face. It is the air of my grandmother’s house in Kuala Lumpur, in 1988. I am three, maybe four. The air is thick with the ghosts of a thousand meals—turmeric, fried shallots, the sweet rot of overripe mangoes from the tree in the yard—all suspended in the heat, refusing to dissipate. It is a taste before it is a smell. It is the feeling of time moving slowly, syrupy, through the louvers of the window, across the cool, cracked terrazzo floor where I sit.
@@ -63,6 +65,8 @@ It begins with me, here, in the cold light, holding a list that is a death certi
 
 I am its daughter.
 
+# Chapter 2
+
 ## **Chapter 2**
 
 The flat in Moseley smelled of other people’s lives. Old tobacco, boiled cabbage, the faint, sweet decay of the floral carpet in the hall. Our life was a small, neat colony within it: two rooms at the back, overlooking a patch of grass the landlord called a garden, where a rusting bicycle frame was slowly being consumed by nettles.
@@ -115,6 +119,8 @@ The room went very still. The only sound was the hum of the refrigerator. My fat
 My mother put down her red pen. She looked not at me, but at the shepherdess on the mantelpiece. “He survived,” she said, her voice clipped. “That is all that matters. He survived, and he worked very hard after. Now, this exercise. The past perfect tense. Let’s focus.”
 
 The door was shut. Not with a slam, but with the quiet, final click of a well-made lock. I understood then that my project and theirs were on a collision course. They were building a future by walling up the past. I was beginning to understand that my future depended on breaking that wall down, even if what lay behind it was only ash and ghosts and the relentless, damp pressure of a truth that refused to be disposed of.
+
+# Chapter 3
 
 ## **Chapter 3**
 
